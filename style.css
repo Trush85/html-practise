@@ -1,0 +1,11 @@
+.littleImg {
+     font-size: 14px;
+     color: rgb(78, 74, 74);
+     background: rgb(240, 238, 238);
+     padding: 2px;
+}
+
+img {
+    width: 850px;
+    margin: 20px 0px;
+}
